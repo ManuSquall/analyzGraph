@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T18:00:51.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="mo_zSv3Km5Q1POcDEuSk" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T18:25:47.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="CA2u31EQ7nHiCMt7mWks" version="24.3.1" type="github">
   <diagram name="Page-1" id="KTZXpdnWKfrQpX5wNeiX">
-    <mxGraphModel dx="874" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,13 +50,13 @@
           <mxGeometry x="130" y="495" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MK7afYL4_efToqdgsO7v-27" value="Gestion client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FetatTO3gr9hhhK3egfX-2">
-          <mxGeometry x="30" y="570" width="80" height="50" as="geometry" />
+          <mxGeometry x="50" y="580" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MK7afYL4_efToqdgsO7v-28" value="Gestion des produits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FetatTO3gr9hhhK3egfX-2">
-          <mxGeometry x="100" y="640" width="80" height="50" as="geometry" />
+          <mxGeometry x="90" y="660" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MK7afYL4_efToqdgsO7v-29" value="Gestion quais" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FetatTO3gr9hhhK3egfX-2">
-          <mxGeometry x="120" y="720" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="750" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MK7afYL4_efToqdgsO7v-1" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="30" height="60" as="geometry" />
